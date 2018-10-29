@@ -46,6 +46,7 @@ Git branch <name> -создать новую ветку.
 
 Git chekout<name> - перейти в ветку
 Git chekout -b <name> - создать ветку и перейти в нее
+Я все понял
 
 
 
